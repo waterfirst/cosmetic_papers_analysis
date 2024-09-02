@@ -5,4 +5,4 @@ numpy
 seaborn
 wordcloud
 Bio
-from collections import Counter
+collections
