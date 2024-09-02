@@ -1,8 +1,7 @@
 streamlit
 pandas
 matplotlib
-numpy
 seaborn
 wordcloud
-Bio
-collections
+biopython
+numpy
